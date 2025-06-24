@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="669fc475-e5aa-42d3-85a5-d5f650262a44" name="Changes" comment="">
+    <list default="true" id="669fc475-e5aa-42d3-85a5-d5f650262a44" name="Changes" comment="Remove package-lock.json file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -90,11 +96,25 @@
       <updated>1750775769781</updated>
       <workItem from="1750775770823" duration="8781000" />
       <workItem from="1750785276271" duration="3444000" />
-      <workItem from="1750789198158" duration="1941000" />
+      <workItem from="1750789198158" duration="3230000" />
     </task>
+    <task id="LOCAL-00001" summary="Remove package-lock.json file.">
+      <option name="closed" value="true" />
+      <created>1750791192635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750791192635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Remove `package-lock.json`" />
+    <MESSAGE value="Remove package-lock.json file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove package-lock.json file." />
   </component>
 </project>

@@ -19,7 +19,15 @@ const compat = new FlatCompat({
 
 const next = [
   {
-    ignores: ['**/node_modules/**/*', '**/dist/**/*', '**/build/**/*', '**/*.d.ts', '**/*.d.json.ts'],
+    ignores: [
+      '**/node_modules/**/*',
+      '**/dist/**/*',
+      '**/build/**/*',
+      '**/*.d.ts',
+      '**/*.d.json.ts',
+      '**/playwright-report/**/*',
+      '**/test-results/**/*'
+    ],
   },
   // Define regras principais e extensões herdadas
   ...compat.config({
