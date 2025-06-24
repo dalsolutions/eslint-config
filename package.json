@@ -1,0 +1,36 @@
+{
+  "name": "@dalsolutions/eslint-config",
+  "version": "2.2.2",
+  "private": false,
+  "description": "ESLint configuration used by Dal Solutions.",
+  "main": "next.mjs",
+  "license": "MIT",
+  "repository": {
+    "url": "dalsolutions/eslint-config"
+  },
+  "peerDependencies": {
+    "eslint": "^9.0.0",
+    "typescript": ">=5"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@typescript-eslint/eslint-plugin": "^8.35.0",
+    "@typescript-eslint/parser": "^8.35.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.4",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-n": "^17.20.0",
+    "eslint-plugin-prettier": "^5.5.0",
+    "eslint-plugin-promise": "^7.2.1",
+    "prettier": "^3.6.0",
+    "prettier-plugin-tailwindcss": "^0.6.13"
+  }
+}
