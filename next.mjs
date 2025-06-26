@@ -57,6 +57,7 @@ const next = [
       'prefer-arrow-callback': 1, // Sugere usar arrow functions em callbacks
       'prefer-template': ['error'], // Obriga uso de template strings no lugar de concatenação
       'no-mixed-requires': 'off', // Permite misturar `require` com `import`
+      'object-shorthand': ['error', 'always'],
       camelcase: 'off', // Permite usar variáveis fora do padrão camelCase
 
       // Regras do TypeScript
@@ -128,6 +129,24 @@ const next = [
       'jsx-a11y/aria-unsupported-elements': 'warn',
       'jsx-a11y/role-has-required-aria-props': 'warn',
       'jsx-a11y/role-supports-aria-props': 'warn',
+
+      // Regras import
+      'import/no-duplicates': 'error', // força agrupamento
+      // 'import/order': [
+      //   'error',
+      //   {
+      //     groups: ['builtin', 'external', 'internal', ['type'], 'parent', 'sibling', 'index'],
+      //     pathGroups: [
+      //       {
+      //         pattern: '@/**',
+      //         group: 'internal',
+      //       },
+      //     ],
+      //     pathGroupsExcludedImportTypes: ['builtin'],
+      //     alphabetize: { order: 'asc', caseInsensitive: true },
+      //     'newlines-between': 'always',
+      //   },
+      // ],
     },
 
     // Configurações de plugins
