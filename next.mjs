@@ -58,6 +58,7 @@ const next = [
       'prefer-template': ['error'], // Obriga uso de template strings no lugar de concatenação
       'no-mixed-requires': 'off', // Permite misturar `require` com `import`
       'object-shorthand': ['error', 'always'],
+      'dot-notation': 'error',
       camelcase: 'off', // Permite usar variáveis fora do padrão camelCase
 
       // Regras do TypeScript
