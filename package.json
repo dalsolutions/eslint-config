@@ -1,6 +1,6 @@
 {
   "name": "@dalsolutions/eslint-config",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "private": false,
   "description": "ESLint configuration used by Dal Solutions.",
   "main": "next.mjs",
@@ -9,7 +9,7 @@
     "url": "dalsolutions/eslint-config"
   },
   "peerDependencies": {
-    "eslint": "^9",
+    "eslint": "^9.29.0",
     "typescript": ">=5"
   },
   "peerDependenciesMeta": {
@@ -21,7 +21,7 @@
     "@eslint/eslintrc": "^3",
     "@typescript-eslint/eslint-plugin": "^8.35.0",
     "@typescript-eslint/parser": "^8.35.0",
-    "eslint": "^9",
+    "eslint": "^9.29.0",
     "eslint-config-next": "15.3.4",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-import": "^2.32.0",
