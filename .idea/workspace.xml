@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="669fc475-e5aa-42d3-85a5-d5f650262a44" name="Changes" comment="Update workspace tasks and add dot-notation ESLint rule">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +98,7 @@
       <workItem from="1750785276271" duration="3444000" />
       <workItem from="1750789198158" duration="4464000" />
       <workItem from="1750796288127" duration="593000" />
-      <workItem from="1750964159105" duration="2956000" />
+      <workItem from="1750964159105" duration="3605000" />
     </task>
     <task id="LOCAL-00001" summary="Remove package-lock.json file.">
       <option name="closed" value="true" />
@@ -131,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750972345405</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update workspace tasks and add dot-notation ESLint rule">
+      <option name="closed" value="true" />
+      <created>1751046386349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751046386349</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
