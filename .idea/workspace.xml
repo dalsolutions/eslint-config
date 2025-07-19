@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="669fc475-e5aa-42d3-85a5-d5f650262a44" name="Changes" comment="Bump package version to 2.2.5 and update peerDependencies configuration">
+    <list default="true" id="669fc475-e5aa-42d3-85a5-d5f650262a44" name="Changes" comment="Bump package version to 2.2.6 and update ESLint peerDependencies to ^9.29.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,13 @@
       <workItem from="1750785276271" duration="3444000" />
       <workItem from="1750789198158" duration="4464000" />
       <workItem from="1750796288127" duration="593000" />
-      <workItem from="1750964159105" duration="3868000" />
+      <workItem from="1750964159105" duration="5155000" />
+      <workItem from="1751054369186" duration="1000" />
+      <workItem from="1751484604140" duration="539000" />
+      <workItem from="1751485182801" duration="3081000" />
+      <workItem from="1751492363312" duration="602000" />
+      <workItem from="1752174673036" duration="1340000" />
+      <workItem from="1752848132819" duration="2611000" />
     </task>
     <task id="LOCAL-00001" summary="Remove package-lock.json file.">
       <option name="closed" value="true" />
@@ -148,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751047030319</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bump package version to 2.2.6 and update ESLint peerDependencies to ^9.29.0">
+      <option name="closed" value="true" />
+      <created>1751047280167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751047280167</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +177,7 @@
     <MESSAGE value="Update ESLint rules to enforce dot notation usage" />
     <MESSAGE value="Update workspace tasks and add dot-notation ESLint rule" />
     <MESSAGE value="Bump package version to 2.2.5 and update peerDependencies configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bump package version to 2.2.5 and update peerDependencies configuration" />
+    <MESSAGE value="Bump package version to 2.2.6 and update ESLint peerDependencies to ^9.29.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bump package version to 2.2.6 and update ESLint peerDependencies to ^9.29.0" />
   </component>
 </project>

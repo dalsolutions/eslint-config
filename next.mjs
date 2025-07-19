@@ -42,6 +42,7 @@ const next = [
       // 'standard',                 // Comentado para evitar conflito com Prettier e TypeScript
       'plugin:@typescript-eslint/recommended', // Regras recomendadas para TypeScript
       'plugin:prettier/recommended', // Integração do Prettier com ESLint (desativa conflitos)
+      'plugin:@tanstack/query/recommended'
     ],
     parser: '@typescript-eslint/parser', // Parser do TypeScript
     parserOptions: {
